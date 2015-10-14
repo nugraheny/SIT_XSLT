@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<data>
+  <mahasiswa>
+    <nim>123</nim>
+    <nama>Andi</nama>
+    <alamat>Yogyakarta</alamat>
+    <prodi>KOMSI</prodi>
+  </mahasiswa>
+  <mahasiswa>
+    <nim>342</nim>
+    <nama>Joko</nama>
+    <alamat>Sleman</alamat>
+    <prodi>REKMED</prodi>
+  </mahasiswa>
+  <mahasiswa>
+    <nim>432</nim>
+    <nama>Ica</nama>
+    <alamat>Bantul</alamat>
+    <prodi>ELINS</prodi>
+  </mahasiswa>
+  <mahasiswa>
+    <nim>765</nim>
+    <nama>Ela</nama>
+    <alamat>Solo</alamat>
+    <prodi>METINS</prodi>
+  </mahasiswa>
+  <mahasiswa>
+    <nim>987</nim>
+    <nama>Ferry</nama>
+    <alamat>Jakarta</alamat>
+    <prodi>KOMSI</prodi>
+  </mahasiswa>
+</data>
